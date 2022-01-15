@@ -1,0 +1,15 @@
+site_name: Conor Sheehan
+site_url: https://conor-james-sheehan@github.io
+nav:
+  - Home: index.md
+  - About: about.md
+plugins: []  # remove search bar
+extra_css: [stylesheets/extra.css]
+theme:
+  name: material
+#  palette:
+#    primary: "blue grey"
+#  font: "Mochiy Pop P One"
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
